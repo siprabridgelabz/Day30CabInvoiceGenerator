@@ -9,6 +9,7 @@ namespace CabInvoiceGenerator
     public class InvoiceGenerator
     {
 
+        
         RideType rideType;
         private RideRepository rideRepository;
 
